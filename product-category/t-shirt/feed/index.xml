@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>T-shirt &#8211; shopmart</title>
+	<atom:link href="/product-category/t-shirt/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Tue, 25 Jun 2024 13:54:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Symbol Men&#8217;s Cotton Rich Polo T Shirt ( Small )</title>
+		<link>/product/symbol-mens-cotton-rich-polo-t-shirt/</link>
+					<comments>/product/symbol-mens-cotton-rich-polo-t-shirt/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 25 Jun 2024 06:58:25 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=141</guid>
+
+					<description><![CDATA[Material composition 60% Cotton, 40% Polyester Pattern Solid]]></description>
+										<content:encoded><![CDATA[<div class="a-fixed-left-grid product-facts-detail">
+<div class="a-fixed-left-grid-inner">
+<ul>
+<li class="a-fixed-left-grid-col a-col-left"><span class="a-color-base">Material composition</span></li>
+<li class="a-fixed-left-grid-col a-col-right"><span class="a-color-base">60% Cotton, 40% Polyester</span></li>
+</ul>
+</div>
+</div>
+<div class="a-fixed-left-grid product-facts-detail">
+<div class="a-fixed-left-grid-inner">
+<ul>
+<li class="a-fixed-left-grid-col a-col-left"><span class="a-color-base">Pattern</span></li>
+<li class="a-fixed-left-grid-col a-col-right"><span class="a-color-base">Solid</span></li>
+</ul>
+</div>
+</div>
+<div class="a-fixed-left-grid product-facts-detail">
+<div class="a-fixed-left-grid-inner"></div>
+</div>
+<div class="a-fixed-left-grid product-facts-detail">
+<div class="a-fixed-left-grid-inner">
+<div class="a-fixed-left-grid-col a-col-right"></div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/symbol-mens-cotton-rich-polo-t-shirt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
